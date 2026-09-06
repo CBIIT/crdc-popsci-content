@@ -1,0 +1,3 @@
+The Seven Bridges Cancer Genomics Cloud (SB-CGC), powered by Velsera, collaborates with the PSDC to facilitate access to its data for analysis. SB-CGC offers secure personal workspaces on the AWS cloud platform as well as publicly available analytical tools shared by the research community. Users create a manifest of files of interest through the PSDC portal and, with one click, can access those files for analysis within the secure SB-CGC environment. Users also have the option of downloading data to their local environment from the SB-CGC platform.
+
+Learn more about working within the [Seven Bridges Cancer Genomics Cloud](https://datacommons.cancer.gov/analytical-resource/seven-bridges-cancer-genomics-cloud-developed-velsera#) environment.

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "revision": "2026-09-06.1",
+  "publishedAt": "2026-09-06T00:00:00Z",
+  "pages": [
+    {
+      "route": "/about",
+      "slug": "about",
+      "title": "About the Population Science Data Commons (PSDC)",
+      "markdown": "pages/about.md",
+      "primaryImage": {
+        "src": "https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/popsci/images/icons/png/homeImageforAboutCard.png",
+        "alt": "Male and female researcher looking over data on a computer screen in a lab",
+        "position": "left"
+      }
+    },
+    {
+      "route": "/access_data",
+      "slug": "access-data",
+      "title": "Access Data",
+      "markdown": "pages/access-data.md",
+      "primaryImage": {
+        "src": "https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/popsci/images/icons/png/TrialsImage.png",
+        "alt": "Abstract image of network data",
+        "position": "left"
+      }
+    },
+    {
+      "route": "/analyze_data",
+      "slug": "analyze-data",
+      "title": "Analyze Data",
+      "markdown": "pages/analyze-data.md",
+      "primaryImage": {
+        "src": "https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/popsci/images/icons/png/requestAccessImage.png",
+        "alt": "Image of a person using a laptop with the National Cancer Institute website displayed",
+        "position": "left"
+      }
+    },
+    {
+      "route": "/support",
+      "slug": "support",
+      "title": "Support",
+      "markdown": "pages/support.md",
+      "primaryImage": {
+        "src": "https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/icdc/aboutPages/About_Support.jpeg",
+        "alt": "Abstract representation of a hand interacting with a holographic cloud button",
+        "position": "left"
+      }
+    }
+  ]
+}
