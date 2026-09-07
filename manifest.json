@@ -6,7 +6,7 @@
     {
       "route": "/about",
       "slug": "about",
-      "title": "About the Population Science Data Commons (PSDC)",
+      "title": "About ",
       "markdown": "pages/about.md",
       "primaryImage": {
         "src": "https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/popsci/images/icons/png/homeImageforAboutCard.png",
@@ -50,7 +50,7 @@
     {
       "route": "/about2",
       "slug": "about2",
-      "title": "About2 the Population Science Data Commons (PSDC)",
+      "title": " (PSDC)",
       "markdown": "pages/about.md",
       "primaryImage": {
         "src": "https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/popsci/images/icons/png/homeImageforAboutCard.png",
