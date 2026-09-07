@@ -46,6 +46,17 @@
         "alt": "Abstract representation of a hand interacting with a holographic cloud button",
         "position": "left"
       }
+    },
+    {
+      "route": "/about2",
+      "slug": "about",
+      "title": "About the Population Science Data Commons (PSDC)",
+      "markdown": "pages/about.md",
+      "primaryImage": {
+        "src": "https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/popsci/images/icons/png/homeImageforAboutCard.png",
+        "alt": "Male and female researcher looking over data on a computer screen in a lab",
+        "position": "left"
+      }
     }
   ]
 }
