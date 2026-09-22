@@ -50,13 +50,24 @@
     {
       "route": "/about2",
       "slug": "about2",
-      "title": " (PSDC)",
+      "title": "This is a test as well",
+      "markdown": "pages/support.md",
+      "primaryImage": {
+        "src": "https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/popsci/images/icons/png/homeImageforAboutCard.png",
+        "alt": "Male and female researcher looking over data on a computer screen in a lab",
+        "position": "left"
+      }
+    },
+    {
+      "route": "/about3",
+      "slug": "about3",
+      "title": "this is a test",
       "markdown": "pages/about.md",
       "primaryImage": {
         "src": "https://raw.githubusercontent.com/CBIIT/datacommons-assets/main/popsci/images/icons/png/homeImageforAboutCard.png",
         "alt": "Male and female researcher looking over data on a computer screen in a lab",
         "position": "left"
       }
-    }
+    },
   ]
 }
